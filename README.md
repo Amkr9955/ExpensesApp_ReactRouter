@@ -2,7 +2,7 @@
 # Expenses Budgeting App
 
 An expenses recording app with CRUD operations build on React and ReactRouter. 
-This project explore localstorage,React Router concepts of Routing, action, loader, fetcher form and Link.
+This project explore localstorage,React Router concepts of Routing, action, loader, fetcher, multiple form submission and Link.
 
 ## Demo
 
